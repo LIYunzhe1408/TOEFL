@@ -30,3 +30,11 @@ https://www.bilibili.com/video/BV1T4411V71S/?spm_id_from=333.337.search-card.all
 * 虚拟语气：还原
 ### Day 1
 * ![图片](./Reading/Day1.jpg)
+
+### Day Friday
+* 从句过多：拆分；
+* 生词美语：积累
+![图片](./Reading/Day Friday.jpg)
+* 从句引导词：that，which，when，where，what，用两个by修饰stone of Roman wall;
+* bonded = held together
+* ![图片](./Reading/Day Friday exp.jpg)
